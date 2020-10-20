@@ -1,0 +1,9 @@
+.home .el-carousel{
+    width: 300px;
+  }
+  .login .el-input{
+    width: 80.5%;
+  }
+ html,body,#app,.home,.el-container{
+    height: 100%;
+  }
